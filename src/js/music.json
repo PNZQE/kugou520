@@ -1,0 +1,257 @@
+[
+  {
+    "audio": "./music/yanyuan.mp3",
+    "item": [
+      "演员",
+      "丑八怪",
+      "方圆几里"
+    ],
+    "answer": 0
+  },
+  {
+    "audio": "./music/someOneLikeYou.mp3",
+    "item": [
+      "Hello",
+      "Some On Like You",
+      "Rolling in the Deep"
+    ],
+    "answer": 1
+  },
+  {
+    "audio": "./music/yong.mp3",
+    "item": [
+      "可惜我是水瓶座",
+      "再见二丁目 ",
+      "勇"
+    ],
+    "answer": 2
+  },
+  {
+    "audio": "./music/YoungAndBea.mp3",
+    "item": [
+      "Beautiful",
+      "Young & Beautiful",
+      "Friend"
+    ],
+    "answer": 1
+  },
+  {
+    "audio": "./music/jiangnan.mp3",
+    "item": [
+      "江南",
+      "她说",
+      "可惜没有如果"
+    ],
+    "answer": 1
+  },
+  {
+    "audio": "./music/kebole.mp3",
+    "item": [
+      "我怀念的 ",
+      "天黑黑 ",
+      "克卜勒"
+    ],
+    "answer": 2
+  },
+  {
+    "audio": "./music/animal.mp3",
+    "item": [
+      "Maps",
+      "Sugar",
+      "Animal"
+    ],
+    "answer": 2
+  },
+  {
+    "audio": "./music/taotai.mp3",
+    "item": [
+      "淘汰",
+      "十年",
+      "红玫瑰"
+    ],
+    "answer": 0
+  },
+  {
+    "audio": "./music/wonderful.mp3",
+    "item": [
+      "一",
+      "圆",
+      "wonderful U"
+    ],
+    "answer": 2
+  },
+  {
+    "audio": "./music/zouma.mp3",
+    "item": [
+      "走马",
+      "小半",
+      "奇妙能力歌"
+    ],
+    "answer":0
+  },
+  {"audio":"./music/who_let_the_dogs_out.mp3",
+    "item":["eyes on me","shake that","who let the dogs out"],
+    "answer":2
+  },
+  {"audio":"./music/Rap_God.mp3",
+    "item":["RAP GOD","lose yourself","superman"],
+    "answer":0
+  },
+  {"audio":"./music/My_Destiny.mp3",
+    "item":["My love","My Destiny","My love my fate"],
+    "answer":1
+  },
+  {"audio":"./music/Trust_you.mp3",
+    "item":["Trust me","Trust you","Trust us"],
+    "answer":1
+  },
+  {"audio":"./music/firework.mp3",
+    "item":["Firework","ROAR","E.T"],
+    "answer":0
+  },
+  {"audio":"./music/BANG_BANG_BANG.mp3",
+    "item":["Fantastic baby","If you","BANG BANG BANG"],
+    "answer":2
+  },
+  {"audio":"./music/party_rock_anthem.mp3",
+    "item":["super party","party rock anthem","Rock n Rock"],
+    "answer":1
+  },
+  {"audio":"./music/jar_of_love.mp3",
+    "item":["jar of love","beautiful love","lover song"],
+    "answer":0
+  },
+  {"audio":"./music/Desperado.mp3",
+    "item":["Desperado","Jude","First day"],
+    "answer":0
+  },
+  {"audio":"./music/I_have_never_been_to_me.mp3",
+    "item":["never been to me","I have never been to me","be me"],
+    "answer":1
+  },
+  {"audio":"./music/fa_no_love.mp3",
+    "item":["雷峰塔下","法海不懂爱","白蛇传"],
+    "answer":1
+  },
+  {"audio":"./music/wait_for_year.mp3",
+    "item":["千年等一回","千年等一下","千年约一下"],
+    "answer":0
+  },
+  {"audio":"./music/always_for_you.mp3",
+    "item":["射雕英雄传","世间武功高","世间始终你好"],
+    "answer":2
+  },
+  {"audio":"./music/sorry_iloveyou.mp3",
+    "item":["蓝色街灯","对不起 我想你","对不起 我爱你"],
+    "answer":2
+  },
+  {"audio":"./music/eat.mp3",
+    "item":["我在人民广场吃炸鸡","我在天安门捡到钱","我在兴盛路喝酒"],
+    "answer":0
+  },
+  {"audio":"./music/blue.mp3",
+    "item":["蓝色的缘分","可遇不可求","粉红色气球"],
+    "answer":0
+  },
+  {"audio":"./music/d_love.mp3",
+    "item":["重口味","爱情陷阱","这陷阱"],
+    "answer":1
+  },
+  {"audio":"./music/Sugar.mp3",
+    "item":["Sugar","Banana","Sweet"],
+    "answer":0
+  },
+  {"audio":"./music/how_to_say.mp3",
+    "item":["想你一千次","蓦然回首","爱要怎么说出口"],
+    "answer":2
+  },
+  {"audio":"./music/slow.mp3",
+    "item":["左手右手 你懂的","慢动作","快动作"],
+    "answer":1
+  },
+  {"audio":"./music/fish.mp3",
+    "item":["水煮鱼","鱼","沸腾鱼"],
+    "answer":1
+  },
+  {"audio":"./music/need_you.mp3",
+    "item":["分分钟需要你","阳光空气","咸鱼白菜"],
+    "answer":0
+  },
+  {"audio":"./music/sky.mp3",
+    "item":["爱到几多岁","为你阔出去","天梯"],
+    "answer":2
+  },
+  {"audio":"./music/shake.mp3",
+    "item":["奥特曼","社会摇","社社社"],
+    "answer":1
+  },
+  {"audio":"./music/wuhuan.mp3",
+    "item":["五环之歌","大裤衩环之歌","三里屯之歌"],
+    "answer":0
+  },
+  {"audio":"./music/mylady.mp3",
+    "item":["东莞","女儿国","女儿情"],
+    "answer":2
+  },
+  {"audio":"./music/lover.mp3",
+    "item":["阿尔卑斯山情人","哥本哈根情人","斯德哥尔摩情人"],
+    "answer":2
+  },
+  {"audio":"./music/duqin.mp3",
+    "item":["渡情","偷渡情","偷情"],
+    "answer":0
+  },
+  {"audio":"./music/a_year.mp3",
+    "item":["已经二年","已经一年","已经三年"],
+    "answer":1
+  },
+  {"audio":"./music/dreams.mp3",
+    "item":["白日梦","作梦吧！少年","大梦想家"],
+    "answer":2
+  },
+  {"audio":"./music/lovesong.mp3",
+    "item":["小小恋歌","帮我补习吧，苍老师","新恒结衣"],
+    "answer":0
+  },
+  {"audio":"./music/look_at_you.mp3",
+    "item":["灌篮高手","只注视着你","好想大声说爱你"],
+    "answer":1
+  },
+  {"audio":"./music/see_my_show.mp3",
+    "item":["她来听我的演唱会","三十岁的女人","明天开演唱会"],
+    "answer":0
+  },
+  {"audio":"./music/nothing.mp3",
+    "item":["问你有木有","什么都有","其实都没有"],
+    "answer":2
+  },
+  {"audio":"./music/loveme_hateme.mp3",
+    "item":["你恨我痴心","我恨我痴心","别恨我痴心"],
+    "answer":1
+  },
+  {"audio":"./music/anyong.mp3",
+    "item":["情书","流年","暗涌"],
+    "answer":2
+  },
+  {"audio":"./music/one.mp3",
+    "item":["踏雪寻梅"," 一剪梅","雪花飘飘"],
+    "answer":1
+  },
+  {"audio":"./music/when.mp3",
+    "item":["当","浪","飘"],
+    "answer":0
+  },
+  {"audio":"./music/crazy.mp3",
+    "item":["凡人歌","鬼迷心窍","爱的代价"],
+    "answer":1
+  },
+  {"audio":"./music/when_you.mp3",
+    "item":["眯着笑","当我","当你"],
+    "answer":2
+  },{
+  "audio":"./music/one.mp3",
+  "item":["踏雪寻梅"," 一剪梅","雪花飘飘"],
+  "answer":1
+  }
+
+]
